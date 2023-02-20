@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-custom-dump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-custom-dump",
+      "state" : {
+        "revision" : "87dd388a193569b288d03cb4060db54f90d1a66f",
+        "version" : "0.7.0"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "16b23a295fa322eb957af98037f86791449de60f",
+        "version" : "0.8.1"
+      }
+    }
+  ],
+  "version" : 2
+}
